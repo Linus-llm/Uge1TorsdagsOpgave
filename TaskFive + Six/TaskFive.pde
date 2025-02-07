@@ -58,4 +58,9 @@ void draw(){
      Green = int(random(255));
      Blue = int(random(255));
 }
+ /*
+ Red = counter == 0 ? int(random(255)) : Red;
+ Green = counter == 0 ? int(random(255)) : Green;
+ Blue = counter == 0 ? int(random(255)) : Blue;
+ */
 }
